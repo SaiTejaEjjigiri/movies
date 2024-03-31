@@ -1,0 +1,137 @@
+Sai Teja
+_____________________________________________________________________________________________
+SUMMARY:
+
+Experienced Java developer with around Eight years of expertise in delivering high-performance solutions. Proficient in RESTful APIs, microservices, database design, and optimization. I am skilled in Agile, Git, Jenkins, and Docker. Strong problem-solving and analytical skills with a focus on delivering quality code. Dedicated and motivated team player always eager to learn and grow.
+
+Good expertise in developing Distributed Enterprise Software Application components using object-oriented design patterns and Microservices Architecture.
+Extensive knowledge on building microservices architecture like service registry, API gateway and SAGA pattern and even driven architecture.
+Extensive experience with Spring Core, Spring Boot.
+Expertise in implementing MVC frameworks using Spring and good knowledge of MVP patterns.
+Experience creating Use Case Model, Use Case Diagrams, Class Diagrams, sequence diagrams using Microsoft Visio tool.
+Proficient in developing dynamic user interfaces using React.js and Angular frameworks, with hands-on experience in building responsive web applications
+Experienced working with NoSQL databases like MongoDB and Apache Cassandra.
+Expertise in using IDEs like My Eclipse, Eclipse 3.x, IntelliJ, STS.
+Have good understanding about Database technologies for both Relational Database (MySQL, Oracle) and NoSQL (Mongo DB).
+Experience with different OS like UNIX, Linux, and Windows operating systems. Proficient in utilizing Unix shell scripts for automating system tasks, enhancing workflow efficiency, and streamlining administrative processes.
+Experience with the build/deployment and release of the application using Maven, Gradle.
+Extensive experience with Agile Scrum Methodologies and Production Support.
+Known for writing efficient, maintainable, and re-usable code that preserves privacy and security.
+Portrayed Leadership by Planning and Organizing several team meetings and fun activities for the team.
+
+TECHNICAL SKILLS:
+
+Architecture & Framework
+Client-Server, MVC, J2EE, Spring, Microservices, Spring Boot.
+Database
+Oracle 11g, SQL server 2008, SQL, Mongo DB, Cassandra
+IDE
+Eclipse, NetBeans, Spring Tool Suite
+Operating Systems
+Windows 9x/NT/XP/2003, Linux, Unix.
+Conceptual knowledge
+Web Services, Spring Web flux, Reactive Programming
+Query Languages
+SQL
+Programming Language
+Java SE 1.8, Java SE 1.6/1.7, Java EE 5/6/7, Core Java APIs (I/O, Thread, Collections), C, C++.
+Tools:
+Java 8, Java 11, J2EE, Spring 4,5 versions, MVC (Model View Controller), Hibernate, Webservices (SOAP, REST), Apache Spark, REST API, Spring boot, Angular, React JS, JavaScript, Micro Services, AWS, MONGO DB (NO SQL), Kafka, Microsoft Azure, Amazon Web Services (AWS), Docker, CI/CD, Kubernetes, Databricks
+
+
+
+CERTIFICATIONS: Designing Microsoft Azure Infrastructure Solutions [ Credential: MS0993721020]
+EDUCATION:  Bachelor of Electronics and Communications [Honors] - India     2016
+
+PROFESSIONAL EXPERIENCE:
+Albertson, CA, USA                                                                                         		April 2023 to Present
+Project # Product Catalogue System
+Responsibilities:
+Involved in SDLC Requirements gathering, Analysis, Design, Development and Testing of application using AGILE methodology (SCRUM).
+Using Spring Core Annotations for dependency injection and used Apache Camel to integrate Spring framework.
+Configuring the application using spring framework annotations and developed Spring. Controllers for request and response processing and implemented RESTful Web Service.
+Used Reactive based programming in Java using JAVA 11 features and integrated non-blocking technologies like Spring Web flux.
+Involved in developing Batch processors for data streaming using Apache Spark.
+Worked on Junit code coverage for writing test cases for Batch and Stream processors.
+Worked on database servers like MongoDB for Runtime and Config DB.
+Involved in deployments using AKS (Azure Kubernetes Services).
+Used Azure key vault for securely storing and managing sensitive information such as secrets, encryption keys, and certificates used in applications and services.
+Involved in designing and developing Object-Oriented methodologies using UML (Unified Modelling Language) and created Use Case, Class, Sequence diagrams and complete development, testing and maintenance process of the application.
+
+Environment: Java 11, Spring 4,5 versions, MVC (Model View Controller), Webservices (SOAP, REST), REST API, Spring boot, Spring Web flux, Netty Server Micro Services, Spark, MONGO DB (NO SQL), Kafka, Microsoft Azure, Key Vault, Docker, CI/CD, Databricks, Kubernetes.
+
+AT&T, NJ, USA                                                                               		May 2019 to March 2023
+Project # AT&T's ticketing system
+Responsibilities:
+Involved in SDLC Requirements gathering, Analysis, Design, Development and Testing of application using AGILE methodology (SCRUM).
+Configuring the application using spring framework annotations and developed Spring Controllers for request and response processing and implemented RESTful Web Service.
+Migrating Spring based application to cloud based Micro services.
+Maintaining multiple copies of data in different database servers using MongoDB replication concept.
+Involved in designing and developing Object-Oriented methodologies using UML (Unified Modelling Language) and created Use Case, Class, Sequence diagrams and complete development, testing and maintenance process of the application.
+Data modeling and development experience in NoSQL databases
+Expertise in implementing Micro-Services using Spring boot and Spring Cloud services.
+Involved in designing various stages of migrating data from RDBMS to Cassandra.
+Spring MVC model integration for front-end request action controller.
+Developing REST APIs using Java.
+Involved in deployments using AKS (Azure Kubernetes Services).
+Optimized micro services performance using auto scale in Kubernetes.
+Involved in developing Database access components using Spring DAO.
+Designing and developing the REST based Micro services using the Spring Boot, Spring Data with JPA.
+Used Docker registry to pull Docker images.
+Adding messages to Kafka topics and wrote JMeter scripts to test the pushing of messages to Kafka queues successfully.
+Involved in unit testing, integrated testing, performance testing.
+
+Environment: Java 8, J2EE, Spring 4,5 versions, MVC (Model View Controller), Webservices (SOAP, REST), REST API, Spring boot, Micro Services, AWS, MONGO DB (NO SQL), Kafka, Microsoft Azure, Amazon Web Services (AWS), Docker, CI/CD, Kubernetes.
+
+Siemens Technology and Services Private Limited, India                                 Jan 2016 to April 2019
+
+Project # Retail Billing and Inventory System
+
+
+Responsibilities:
+
+
+Responsible for developing, maintaining, deploying, and supporting the highly scalable, multi-user e-commerce Web application for dealers.
+Configured Business Layer Spring framework for servicing client requests and DAO layer for providing security based on the user roles.
+Involved in packaging ORM entities in microservice design.
+Involved in data gathering during the business analysis and planning phase of the project.
+Extensively used Spring MVC framework to develop the web layer for the application. Configured Dispatcher Servlet in web.xml.
+Wrote Spring configuration files for the beans defined and properties to be injected into them using spring's Dependency Injection.
+Used Spring's AOP to implement logging and getting data source objects as the advice that was woven in the bean classes.
+Developed some external plug-in for internet-based application, using tools like Eclipse and Jenkins.
+Leveraged application quality using JUnit within a configured environment for comprehensive unit testing.
+Wrote separate dedicated classes to implement logging functionality and to get data sources objects. Log4j was used to implement logging.
+
+Environment: Java 8, J2EE, Spring 4,5 versions, MVC (Model View Controller), Webservices (SOAP, REST), REST API, Spring boot, Micro Services, AWS, MONGO DB (NO SQL), Kafka, Microsoft Azure, Amazon Web Services (AWS), Docker, CI/CD, Kubernetes.
+
+
+First Republic Private Wealth Management, India 			     May 2016 - Dec 2016
+Project # Portfolio Diversification tool
+
+Responsibilities:
+Developing Web applications using Java, J2EE and Hibernate.
+Developing Action Form classes, Form beans, Action classes using struts.
+Using Hibernate for backend persistence.
+Used Spring framework for dependency injection and integrated with Hibernate.
+Involved in writing Spring Configuration XML file that has object declarations and dependencies.
+Implementing MVC, DAO J2EE design patterns as a part of application development.
+Developing DAO interfaces for hibernating to interact with databases.
+Participating in project design sessions to document technical specifications and to provide design options and solutions.
+Extensively written CORE JAVA code in application.
+Used collections, multi-threading, concurrency, and other features of core java.
+Developed SOAP based Web Services using JAXB.
+Used JSP, HTML, and CSS for content layout and presentation.
+Implemented business logic using Session Beans, Servlets, and stored procedures.
+Working on Web technologies including Tomcat, Apache, Http, Web service architectures.
+Migrating web applications from Tomcat to web sphere deployment environments.
+Using Svn for software configuration management and version control.
+Preparing test cases and strategies for unit testing and integration testing.
+
+Environment: Java SE 1.8, Java SE 1.6/1.7, Java EE 5/6/7, J2EE, Spring 4,5 versions, MVC (Model View Controller), Hibernate, Webservices (SOAP, REST), REST API, Spring boot, Micro Services, AWS, MONGO DB (NO SQL)
+
+
+Cisco Systems Private Ltd, India							Jan 2016 – May 2016
+Internship
+The internship project is focused on utilizing Cisco Packet Tracer to design and simulate various network scenarios for educational and research purposes. As an intern, you will work with a team of network professionals to design and simulate real-world network topologies, configuring routers, switches, and other network devices, and testing and troubleshoot the simulated networks. This will provide you with hands-on experience with Cisco Packet Tracer, as well as an understanding of network design and troubleshooting, and Cisco networking technologies and best practices. The goal is to provide you with a comprehensive understanding of network design, troubleshooting and simulating network scenarios using Cisco Packet Tracer, giving you an edge in the networking field. The internship project is focused on utilizing Cisco Packet Tracer to design and simulate various network scenarios for educational and research purposes. As an intern, you will work with a team of network professionals to design and simulate real-world network topologies, configuring routers, switches, and other network devices, and testing and troubleshoot the simulated networks. This will provide you with hands-on experience with Cisco Packet Tracer, as well as an understanding of network design and troubleshooting, and Cisco networking technologies and best practices. The goal is to provide you with a comprehensive understanding of network design, troubleshooting and simulating network scenarios using Cisco Packet Tracer, giving you an edge in the networking field.
+Environment:  Internet Protocol Suite (TCP/IP), Cisco Routers, Cisco Packet Tracer.
+
